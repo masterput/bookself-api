@@ -1,4 +1,4 @@
 # bookself-api
 
 install
-npm install
+$ npm install
